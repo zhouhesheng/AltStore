@@ -17,11 +17,11 @@ import Roxas
 
 extension AppDelegate
 {
-    static let openPatreonSettingsDeepLinkNotification = Notification.Name("com.rileytestut.AltStore.OpenPatreonSettingsDeepLinkNotification")
-    static let importAppDeepLinkNotification = Notification.Name("com.rileytestut.AltStore.ImportAppDeepLinkNotification")
-    static let addSourceDeepLinkNotification = Notification.Name("com.rileytestut.AltStore.AddSourceDeepLinkNotification")
+    static let openPatreonSettingsDeepLinkNotification = Notification.Name("com.leapcloud.AltStore.OpenPatreonSettingsDeepLinkNotification")
+    static let importAppDeepLinkNotification = Notification.Name("com.leapcloud.AltStore.ImportAppDeepLinkNotification")
+    static let addSourceDeepLinkNotification = Notification.Name("com.leapcloud.AltStore.AddSourceDeepLinkNotification")
     
-    static let appBackupDidFinish = Notification.Name("com.rileytestut.AltStore.AppBackupDidFinish")
+    static let appBackupDidFinish = Notification.Name("com.leapcloud.AltStore.AppBackupDidFinish")
     
     static let importAppDeepLinkURLKey = "fileURL"
     static let appBackupResultKey = "result"
@@ -33,10 +33,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     
-    @available(iOS 14, *)
+    //@available(iOS 14, *)
     private lazy var intentHandler = IntentHandler()
     
-    @available(iOS 14, *)
+    //@available(iOS 14, *)
     private lazy var viewAppIntentHandler = ViewAppIntentHandler()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool

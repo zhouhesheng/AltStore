@@ -73,8 +73,8 @@ NSNotificationName const ALTDeviceManagerDeviceDidDisconnectNotification = @"ALT
         
         _installationProgress = [NSMutableDictionary dictionary];
         
-        _installationQueue = dispatch_queue_create("com.rileytestut.AltServer.Installation", DISPATCH_QUEUE_SERIAL);
-        _devicesQueue = dispatch_queue_create("com.rileytestut.AltServer.Devices", DISPATCH_QUEUE_CONCURRENT_WITH_AUTORELEASE_POOL);
+        _installationQueue = dispatch_queue_create("com.leapcloud.AltServer.Installation", DISPATCH_QUEUE_SERIAL);
+        _devicesQueue = dispatch_queue_create("com.leapcloud.AltServer.Devices", DISPATCH_QUEUE_CONCURRENT_WITH_AUTORELEASE_POOL);
         
         _cachedDevices = [NSMutableSet set];
     }

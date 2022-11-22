@@ -1,4 +1,4 @@
-Package: com.rileytestut.altdaemon
+Package: com.leapcloud.altdaemon
 Name: AltDaemon
 Depends:
 Version: 1.0

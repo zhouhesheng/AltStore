@@ -13,7 +13,7 @@ extension FileManager
     var altserverDirectory: URL {
         let applicationSupportDirectoryURL = self.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
         
-        let altserverDirectoryURL = applicationSupportDirectoryURL.appendingPathComponent("com.rileytestut.AltServer")
+        let altserverDirectoryURL = applicationSupportDirectoryURL.appendingPathComponent("com.leapcloud.AltServer")
         return altserverDirectoryURL
     }
     

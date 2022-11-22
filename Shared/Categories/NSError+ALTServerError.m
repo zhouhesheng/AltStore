@@ -8,9 +8,9 @@
 
 #import "NSError+ALTServerError.h"
 
-NSErrorDomain const AltServerErrorDomain = @"com.rileytestut.AltServer";
-NSErrorDomain const AltServerInstallationErrorDomain = @"com.rileytestut.AltServer.Installation";
-NSErrorDomain const AltServerConnectionErrorDomain = @"com.rileytestut.AltServer.Connection";
+NSErrorDomain const AltServerErrorDomain = @"com.leapcloud.AltServer";
+NSErrorDomain const AltServerInstallationErrorDomain = @"com.leapcloud.AltServer.Installation";
+NSErrorDomain const AltServerConnectionErrorDomain = @"com.leapcloud.AltServer.Connection";
 
 NSErrorUserInfoKey const ALTUnderlyingErrorDomainErrorKey = @"underlyingErrorDomain";
 NSErrorUserInfoKey const ALTUnderlyingErrorCodeErrorKey = @"underlyingErrorCode";

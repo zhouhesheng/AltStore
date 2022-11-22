@@ -1,10 +1,10 @@
 {
   "name": "AltStore (Alpha)",
-  "identifier": "com.rileytestut.AltStore.Alpha",
+  "identifier": "com.leapcloud.AltStore.Alpha",
   "apps": [
     {
       "name": "AltStore (Alpha)",
-      "bundleIdentifier": "com.rileytestut.AltStore.Alpha",
+      "bundleIdentifier": "com.leapcloud.AltStore.Alpha",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.4.2a1",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Delta (Alpha)",
-      "bundleIdentifier": "com.rileytestut.Delta.Alpha",
+      "bundleIdentifier": "com.leapcloud.Delta.Alpha",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
       "version": "1.3a9",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Clip (Alpha)",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "bundleIdentifier": "com.leapcloud.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.1a1",

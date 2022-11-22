@@ -1,11 +1,11 @@
 {
   "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
+  "identifier": "com.leapcloud.AltStore",
   "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
   "apps": [
     {
       "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
+      "bundleIdentifier": "com.leapcloud.AltStore",
       "developerName": "Riley Testut",
       "version": "1.5",
       "versionDate": "2022-05-06T08:00:00-07:00",
@@ -33,7 +33,7 @@
     },
     {
       "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "bundleIdentifier": "com.leapcloud.AltStore.Beta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.5rc",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
+      "bundleIdentifier": "com.leapcloud.Delta",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
       "version": "1.3.1",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "bundleIdentifier": "com.leapcloud.Delta.Beta",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
       "version": "1.3.1b",
@@ -116,7 +116,7 @@
     },
     {
       "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip",
+      "bundleIdentifier": "com.leapcloud.Clip",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.0",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "bundleIdentifier": "com.leapcloud.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.1b1",
@@ -182,7 +182,7 @@
       "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
       "tintColor": "8A28F7",
       "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
-      "appID": "com.rileytestut.Delta",
+      "appID": "com.leapcloud.Delta",
       "date": "2019-09-28",
       "notify": true
     },
@@ -218,7 +218,7 @@
       "caption": "Finally, a clipboard manager that can run in the background — no jailbreak required.",
       "tintColor": "EC008C",
       "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
-      "appID": "com.rileytestut.Clip",
+      "appID": "com.leapcloud.Clip",
       "date": "2020-06-17",
       "notify": true
     },
@@ -228,7 +228,7 @@
       "caption": "Update to Delta 1.3 to relive all your favorite Nintendo DS games.",
       "tintColor": "8A28F7",
       "imageURL": "https://user-images.githubusercontent.com/705880/115617602-6ce2b600-a2a6-11eb-984e-2197a30c71e2.png",
-      "appID": "com.rileytestut.Delta",
+      "appID": "com.leapcloud.Delta",
       "date": "2021-04-21",
       "notify": true
     },

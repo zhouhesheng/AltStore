@@ -155,21 +155,21 @@ struct WidgetView_Previews: PreviewProvider {
         let longExpirationDate = Calendar.current.date(byAdding: .day, value: 365, to: longRefreshedDate) ?? Date()
         
         let altstore = AppSnapshot(name: "AltStore",
-                              bundleIdentifier: "com.rileytestut.AltStore",
+                              bundleIdentifier: "com.leapcloud.AltStore",
                               expirationDate: shortExpirationDate,
                               refreshedDate: shortRefreshedDate,
                               tintColor: .altPrimary,
                               icon: UIImage(named: "AltStore"))
         
         let delta = AppSnapshot(name: "Delta",
-                              bundleIdentifier: "com.rileytestut.Delta",
+                              bundleIdentifier: "com.leapcloud.Delta",
                               expirationDate: longExpirationDate,
                               refreshedDate: longRefreshedDate,
                               tintColor: .deltaPrimary,
                               icon: UIImage(named: "Delta"))
         
         let expiredDelta = AppSnapshot(name: "Delta",
-                                       bundleIdentifier: "com.rileytestut.Delta",
+                                       bundleIdentifier: "com.leapcloud.Delta",
                                        expirationDate: expiredExpirationDate,
                                        refreshedDate: shortRefreshedDate,
                                        tintColor: .deltaPrimary,

@@ -46,7 +46,7 @@ class AppManager
 {
     static let shared = AppManager()
     
-    @available(iOS 13, *)
+    //@available(iOS 13, *)
     private(set) lazy var publisher: AppManagerPublisher = AppManagerPublisher()
     
     private(set) var updatePatronsResult: Result<Void, Error>?
@@ -67,7 +67,7 @@ class AppManager
         }
     }
     
-    @available(iOS 13.0, *)
+    //@available(iOS 13.0, *)
     private lazy var cancellables = Set<AnyCancellable>()
     
     private init()

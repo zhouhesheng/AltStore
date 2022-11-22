@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>6XVY5G3U44.com.rileytestut.AltDaemon</string>
+	<string>6XVY5G3U44.com.leapcloud.AltDaemon</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>platform-application</key>

@@ -4,7 +4,7 @@
 <dict>
 	<key>ALTAppGroups</key>
 	<array>
-		<string>group.com.rileytestut.AltStore</string>
+		<string>group.com.leapcloud.AltStore</string>
 	</array>
 	<key>ALTDeviceID</key>
 	<string>00008110-000A68390A82801E</string>
@@ -60,7 +60,7 @@
 			<string>AltStore Backup</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>altstore-com.rileytestut.AltStore</string>
+				<string>altstore-com.leapcloud.AltStore</string>
 			</array>
 		</dict>
 	</array>
@@ -73,14 +73,14 @@
 	</array>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>altstore-com.rileytestut.AltStore</string>
-		<string>altstore-com.rileytestut.AltStore.Beta</string>
-		<string>altstore-com.rileytestut.Delta</string>
-		<string>altstore-com.rileytestut.Delta.Beta</string>
-		<string>altstore-com.rileytestut.Delta.Lite</string>
-		<string>altstore-com.rileytestut.Delta.Lite.Beta</string>
-		<string>altstore-com.rileytestut.Clip</string>
-		<string>altstore-com.rileytestut.Clip.Beta</string>
+		<string>altstore-com.leapcloud.AltStore</string>
+		<string>altstore-com.leapcloud.AltStore.Beta</string>
+		<string>altstore-com.leapcloud.Delta</string>
+		<string>altstore-com.leapcloud.Delta.Beta</string>
+		<string>altstore-com.leapcloud.Delta.Lite</string>
+		<string>altstore-com.leapcloud.Delta.Lite.Beta</string>
+		<string>altstore-com.leapcloud.Clip</string>
+		<string>altstore-com.leapcloud.Clip.Beta</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

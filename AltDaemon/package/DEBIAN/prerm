@@ -1,2 +1,2 @@
 #!/bin/sh
-launchctl unload /Library/LaunchDaemons/com.rileytestut.altdaemon.plist
+launchctl unload /Library/LaunchDaemons/com.leapcloud.altdaemon.plist

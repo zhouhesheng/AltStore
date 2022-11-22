@@ -4,10 +4,10 @@
 <dict>
 	<key>ALTAppGroups</key>
 	<array>
-		<string>group.com.rileytestut.AltStore</string>
+		<string>group.com.leapcloud.AltStore</string>
 	</array>
 	<key>ALTBundleIdentifier</key>
-	<string>com.rileytestut.AltBackup</string>
+	<string>com.leapcloud.AltBackup</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
